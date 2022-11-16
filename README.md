@@ -11,7 +11,7 @@ Download latest binaries from https://github.com/igolaizola/istor/releases
 or install using go
 
 ```
-go install github.com/igolaizola/istor@latest
+go install github.com/igolaizola/istor/cmd/istor@latest
 ```
 
 ### Usage
